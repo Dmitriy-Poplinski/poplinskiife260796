@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer: Footer gets correct string 1`] = `
+<div
+  class="footer__main"
+  data-testid="footer"
+  style="background: url(footer_cover.jpg);"
+>
+  Footer
+</div>
+`;
+
+exports[`Footer: Footer gets incorrect string 1`] = `
+<div
+  class="footer__main"
+  data-testid="footer"
+  style="background: red;"
+>
+  Footer
+</div>
+`;

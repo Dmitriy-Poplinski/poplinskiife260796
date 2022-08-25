@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App: App snapshot 1`] = `
+<div
+  class="app"
+  data-testid="app"
+>
+  <div
+    class="header__main"
+    data-testid="header"
+    style="background: url(header_cover.jpg);"
+  >
+    Header
+  </div>
+  <div
+    class="main"
+    data-testid="main"
+  >
+    <div
+      class="left_panel"
+      data-testid="left_panel"
+      style="background: url(left_panel_cover.jpg);"
+    >
+      Left Panel
+    </div>
+    <div
+      class="main_body"
+      data-testid="main_body"
+      style="background: url(main_body_cover.jpg);"
+    >
+      <button
+        class="button"
+        data-testid="button"
+      >
+        Click me
+      </button>
+    </div>
+    <div
+      class="right_panel"
+      data-testid="right_panel"
+      style="background: url(right_panel_cover.jpg);"
+    >
+      Right Panel
+    </div>
+  </div>
+  <div
+    class="footer__main"
+    data-testid="footer"
+    style="background: url(footer_cover.jpg);"
+  >
+    Footer
+  </div>
+</div>
+`;

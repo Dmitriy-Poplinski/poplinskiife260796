@@ -1,0 +1,7 @@
+.footer__main {
+    position: sticky;
+    height: 6%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+};

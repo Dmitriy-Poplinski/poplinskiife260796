@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main: Main gets array 1`] = `
+<div
+  class="main"
+  data-testid="main"
+>
+  <div
+    class="left_panel"
+    data-testid="left_panel"
+    style="background: orange;"
+  >
+    Left Panel
+  </div>
+  <div
+    class="main_body"
+    data-testid="main_body"
+    style="background: violet;"
+  >
+    <button
+      class="button"
+      data-testid="button"
+    >
+      Click me
+    </button>
+  </div>
+  <div
+    class="right_panel"
+    data-testid="right_panel"
+    style="background: maroon;"
+  >
+    Right Panel
+  </div>
+</div>
+`;

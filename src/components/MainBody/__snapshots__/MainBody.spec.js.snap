@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainBody: MainBody gets correct string 1`] = `
+<div
+  class="main_body"
+  data-testid="main_body"
+  style="background: url(main_body_cover.jpg);"
+>
+  <button
+    class="button"
+    data-testid="button"
+  >
+    Click me
+  </button>
+</div>
+`;
+
+exports[`MainBody: MainBody gets incorrect string 1`] = `
+<div
+  class="main_body"
+  data-testid="main_body"
+  style="background: violet;"
+>
+  <button
+    class="button"
+    data-testid="button"
+  >
+    Click me
+  </button>
+</div>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RightPanel: RightPanel gets correct string 1`] = `
+<div
+  class="right_panel"
+  data-testid="right_panel"
+  style="background: url(right_panel_cover.jpg);"
+>
+  Right Panel
+</div>
+`;
+
+exports[`RightPanel: RightPanel gets incorrect string 1`] = `
+<div
+  class="right_panel"
+  data-testid="right_panel"
+  style="background: maroon;"
+>
+  Right Panel
+</div>
+`;

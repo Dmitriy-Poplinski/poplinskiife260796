@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header: Header gets correct string 1`] = `
+<div
+  class="header__main"
+  data-testid="header"
+  style="background: url(header_cover.jpg);"
+>
+  Header
+</div>
+`;
+
+exports[`Header: Header gets incorrect string 1`] = `
+<div
+  class="header__main"
+  data-testid="header"
+  style="background: blue;"
+>
+  Header
+</div>
+`;
